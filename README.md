@@ -1,4 +1,10 @@
-### Hi there I'm Mitchell [mdu830]👋
+### Hi there I'm Mitchell 👋
+
+### I'm a Fullstack Web Developer
+
+- 🔭 I’m currently working on my project "Surf Weasel"
+- 🌱 I’m currently learning everything I can about React
+- ⚡ Fun fact: I enjoy playing stringed instruments and flying drones
 
 <!--
 **mdu830/mdu830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
