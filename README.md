@@ -4,7 +4,15 @@
 
 - 🔭 I’m currently working on my project "Surf Weasel"
 - 🌱 I’m currently learning everything I can about React
-- ⚡ Fun fact: I enjoy playing stringed instruments and flying drones
+- ⚡ Fun fact: I also enjoy playing stringed instruments and flying drones
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/mitchell-duncan830/
+
 
 <!--
 **mdu830/mdu830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
