@@ -8,10 +8,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mdu830 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="mdu830 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/yahoo.svg" />][yahooMail]
 
 
 [linkedin]: https://www.linkedin.com/in/mitchell-duncan830/
+[yahooMail]: mdu830@yahoo.com
+
 
 
 <!--
