@@ -34,7 +34,7 @@
 
 ### Github Stats:
 
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=mdu830&hide_title=true&hide_border=&border_radius=22px&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=e9f0eb&icon_color=e9f0eb&bg_color=0b7a9c&theme=gruvbox" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdu830&hide=html&hide_title=true&hide_border=&border_radius=22px&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=e9f0eb&icon_color=e9f0eb&bg_color=0b7a9c&theme=white" />
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=mdu830&hide_title=true&hide_border=&border_radius=22px&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=e9f0eb&icon_color=e9f0eb&bg_color=77b2bf&theme=gruvbox" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdu830&hide=html&hide_title=true&hide_border=&border_radius=22px&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=e9f0eb&icon_color=e9f0eb&bg_color=77b2bf&theme=white" />
 
 [linkedin]: https://www.linkedin.com/in/mitchell-duncan830/
 [facebook]: https://www.facebook.com/joe.duncan.589/
