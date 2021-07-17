@@ -2,7 +2,7 @@
 
 ### I'm a Fullstack Web Developer
 
-- 🔭 I’m currently working on converting most of my applications to react
+- 🔭 I’m currently working on react-surf-weasel
 - 🌱 I’m currently learning everything I can
 - ⚡ Fun fact: I also enjoy playing stringed instruments and flying drones
 
