@@ -3,7 +3,7 @@
 ### I'm a Fullstack Web Developer
 
 - 🔭 I’m currently working on react-surf-weasel
-- 🌱 I’m currently learning everything I can
+- 🌱 I’m currently learning Vue.js
 - ⚡ Fun fact: I also enjoy playing stringed instruments and flying drones
 
 ### Languages and Tools:
