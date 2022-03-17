@@ -2,7 +2,7 @@
 
 ### I'm a Fullstack Web Developer
 
-- 🔭 I’m currently working on guitar-scaler(vue.js)
+- 🔭 I’m currently working on guitar-scaler(React.js)
 - 🌱 I’m currently learning Vue.js
 - ⚡ Fun fact: I also enjoy playing stringed instruments and flying drones
 
