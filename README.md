@@ -2,8 +2,8 @@
 
 ### I'm a Fullstack Web Developer
 
-- 🔭 I’m currently working on guitar-scaler(React.js)
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on my Guitar Scaler app
+- 🌱 I’m currently learning React-native, xcode, and cordova
 - ⚡ Fun fact: I also enjoy playing stringed instruments and flying drones
 
 ### Languages and Tools:
