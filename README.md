@@ -2,9 +2,9 @@
 
 ### I'm a Fullstack Web Developer
 
-- 🔭 I’m currently working on my Guitar Scaler app
-- 🌱 I’m currently learning React-native, xcode, and cordova
-- ⚡ Fun fact: I also enjoy playing stringed instruments and flying drones
+- 🔭 I’m currently building business websites for my advertisers 
+- 🌱 I’m currently learning React-native, xcode, and nextjs 
+- ⚡ Fun fact: I enjoy playing guitar and building a multitude of electronics
 
 ### Languages and Tools:
 
